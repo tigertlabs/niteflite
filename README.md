@@ -4,10 +4,6 @@ Simple Arduino sketch to create "ICAO style" navigation lights for RC aircraft u
 Adapted from "Erics DIY Aircraft Navigation Lights Project", website: http://mkme.org,
 which, according to the credits, was adapted from Harold Asbridge.
 
-Further adapted and mashed up by Tuomas Kuosmanen <tuomas.kuosmanen@gmail.com> 
-I also pushed this to github so I can keep better track of changes (and so I 
-can point others to the code if needed.
-
 ## Features
 
   * Two fading anti-collision beacons (above and below fuselage). These are always 
